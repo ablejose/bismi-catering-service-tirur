@@ -1,0 +1,45 @@
+{
+  "slug": "bismi-catering-service-tirur",
+  "name": "Bismi Catering Service",
+  "shortName": "Bismi",
+  "descriptor": "Catering Services",
+  "address": "Iringavoor, Tirur, Keralam 676103",
+  "area": "Iringavoor",
+  "city": "Tirur",
+  "district": "Malappuram",
+  "region": "Kerala",
+  "postalCode": "676103",
+  "geo": {
+    "lat": 10.923535300000001,
+    "lng": 75.9553633
+  },
+  "mapsLink": "https://maps.google.com/?cid=1740591209427701273",
+  "phone": "+91 99956 01212",
+  "whatsapp": "919995601212",
+  "instagram": "https://instagram.com/bismi_cater.events",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 3,
+  "reviews": [
+    {
+      "name": "Prasanth",
+      "rating": 5,
+      "quote": "I had the luck to taste the food by Bismi catering from an event that I recently attended and the food was extremely delicious and their service was really warm and welcoming especially Mr."
+    },
+    {
+      "name": "Smina Ashraf",
+      "rating": 5,
+      "quote": "Thankyou so much for an unforgettable party and good tasty😋 food... Thank you BISMI"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://bismi-catering-service-tirur.vercel.app"
+}
